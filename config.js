@@ -18,7 +18,7 @@ global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqC', ''] // ganti 
 global.owner = ['6281802626072','62895324080019'] // Put your number here //owner eval
 global.kontak = ['6281802626072','62895324080019'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
+global.prems = ['6281802626072','62895324080019'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
