@@ -35,7 +35,7 @@ const defaultMenu = {
   header: '╭─֍ 〔 %category 〕 ֍─',
   body: '┃⬡ %cmd %islimit %isPremium',
   footer: '╰────────֍\n',
-  footerText:'𝙆𝙧𝙞𝙯𝙮𝙣 ×͜×', 
+  footerText:'aresbotz', 
   after: `${namabot}
 `,
 }
@@ -238,12 +238,12 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃⬣ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
 ┃⬣ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┗━━━━━━━━━━━━━━֍
-┏━━〔 𝘼𝘾𝘾𝙊𝙐𝙉𝙏 𝙊𝙒𝙉𝙀𝙍 〕━֍
-┃⬣ IG : instagram.com/mhdfakri_
-┃⬣ YT : youtube.com/c/HokenBeusz
-┃⬣ TT : tiktok.com/@unfaedahkan
-┃⬣ FB : facebook.com/mhdfakri1999
-┃⬣ 𝘿𝙊𝙉'𝙏 𝙁𝙊𝙍𝙂𝙀𝙏 𝙏𝙊 𝙁𝙊𝙇𝙇𝙊𝙒𝙄𝙉𝙂!
+┏━━〔 OWNER INTRO 〕━֍
+┃⬣ NAMA : ARESBOTZ
+┃⬣ UMUR : 20 THN
+┃⬣ ASAL : JATENG
+┃⬣ NOWA : 0818-0262-6072
+┃⬣ JANGAN LUPA UNTUK SAVE NOMOR!
 ┗━━━━━━━━━━━━━━֍`.trim(),
                         "footerText": "𝘑𝘪𝘬𝘢 𝘮𝘦𝘯𝘦𝘮𝘶𝘬𝘢𝘯 𝘣𝘶𝘨 𝘥𝘢𝘭𝘢𝘮 𝘱𝘦𝘯𝘨𝘨𝘶𝘯𝘢𝘢𝘯\n𝘚𝘪𝘭𝘢𝘩𝘬𝘢𝘯 𝘭𝘢𝘱𝘰𝘳𝘬𝘢𝘯 𝘰𝘳 𝘵𝘢𝘯𝘺𝘢𝘬𝘢𝘯 𝘬𝘦𝘱𝘢𝘥𝘢 𝙊𝙬𝙣𝙚𝙧",
                         "buttonText": "Klik Disini",
